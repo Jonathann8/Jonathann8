@@ -16,10 +16,7 @@ Currently, I work in an environment where effective communication is essential, 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white
 )](https://www.instagram.com/ojtsilva/)
 
-
-![Jonathan GitHub stats](https://github-readme-stats.vercel.app/api?username=Jonathann8&show_iconJonathann8s=true&theme=radical)
-
-# Tecnologias que eu uso:
+### Linguagens de programação
 
 ![Pyhton](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white
@@ -28,3 +25,6 @@ Currently, I work in an environment where effective communication is essential, 
 )
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white
 )
+
+
+![Jonathan GitHub stats](https://github-readme-stats.vercel.app/api?username=Jonathann8&show_iconJonathann8s=true&theme=radical)
