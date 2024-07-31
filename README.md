@@ -19,7 +19,7 @@ Currently, I work in an environment where effective communication is essential, 
 
 ![Jonathan GitHub stats](https://github-readme-stats.vercel.app/api?username=Jonathann8&show_iconJonathann8s=true&theme=radical)
 
-## Tecnologias que eu uso:
+# Tecnologias que eu uso:
 
 ![Pyhton](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white
