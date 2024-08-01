@@ -1,5 +1,5 @@
 
-Olá, me chamo Jonathan 👋🏿, tenho 22 anos, Sou um desenvolvedor experiente com uma sólida formação em programação, design gráfico e marketing. Fluente em inglês, possuo habilidades avançadas em Python e C, e me destaco pela capacidade de aprender rapidamente e adaptar-me a novos desafios.
+Olá, me chamo Jonathan 👋🏿, tenho 22 anos, Sou um desenvolvedor experiente com uma sólida formação em programação, design gráfico e marketing. Nivel médio em inglês, possuo habilidades avançadas em Python e C, e me destaco pela capacidade de aprender rapidamente e adaptar-me a novos desafios.
 
 Atualmente, atuo em um ambiente onde a comunicação eficaz é essencial, o que me permite desenvolver não apenas soluções técnicas, mas também estratégias que conectam e engajam o público. Minha expertise em design gráfico e marketing complementa meu trabalho como programador, proporcionando uma abordagem criativa e orientada a resultados em cada projeto.
 
@@ -7,7 +7,7 @@ Atualmente, atuo em um ambiente onde a comunicação eficaz é essencial, o que 
 
  [EN-US] 
 
-Hello, my name is Jonathan 👋🏿. I am 22 years old and an experienced developer with a solid background in programming, graphic design, and marketing. Fluent in English, I possess advanced skills in Python and C, and I excel at quickly learning and adapting to new challenges.
+Hello, my name is Jonathan 👋🏿. I am 22 years old and an experienced developer with a solid background in programming, graphic design, and marketing. Intermediate level in English, I possess advanced skills in Python and C, and I excel at quickly learning and adapting to new challenges.
 
 Currently, I work in an environment where effective communication is essential, allowing me to develop not only technical solutions but also strategies that connect and engage the audience. My expertise in graphic design and marketing complements my work as a programmer, providing a creative and results-oriented approach to every project.
 
