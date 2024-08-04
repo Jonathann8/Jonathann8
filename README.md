@@ -19,7 +19,7 @@ Currently, I work in an environment where effective communication is essential, 
 
 
 
-### 💡💻Habilidades/Skills
+### 💡💻Skills
 
 ![Pyhton](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white
