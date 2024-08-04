@@ -2,7 +2,6 @@ Olá, me chamo Jonathan 👋🏿, tenho 22 anos, Sou um desenvolvedor experiente
 
 Atualmente, atuo em um ambiente onde a comunicação eficaz é essencial, o que me permite desenvolver não apenas soluções técnicas, mas também estratégias que conectam e engajam o público. Minha expertise em design gráfico e marketing complementa meu trabalho como programador, proporcionando uma abordagem criativa e orientada a resultados em cada projeto.
 
- About me
 
  [EN-US] 
 
@@ -30,6 +29,18 @@ Currently, I work in an environment where effective communication is essential, 
 )
 ![Vscode](https://img.shields.io/badge/Vscode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+
+### 🚀Stack’s In Progress
+
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+
+
+
+
+
 
 
 
