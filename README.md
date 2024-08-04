@@ -46,6 +46,5 @@ Currently, I work in an environment where effective communication is essential, 
 
 
 
-![Jonathan GitHub stats](https://github-readme-stats.vercel.app/api?username=Jonathann8&show_iconJonathann8s=true&theme=radical)
 
 
